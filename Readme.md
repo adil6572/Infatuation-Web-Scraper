@@ -1,11 +1,12 @@
+
 # Web Scraping with Python: The Infatuation Scraper
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Output](#output)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -15,12 +16,18 @@ Welcome to the **Web Scraping with Python: The Infatuation Scraper** project. Th
 
 ![The Infatuation](https://github.com/adil6572/Infatuation-Web-Scraper/blob/main/The-Infatuation.png)
 
-## Features
 
-- Scrape restaurant review data including rating, price, cuisine, location, and more.
-- Customizable scraping parameters to target specific types of restaurants or locations.
-- Easy-to-use and well-documented Python script.
-- Ideal for data analysis, research, or creating your own restaurant recommendation app.
+## Output 
+
+- **review_url**: The URL of the review on 'www.theinfatuation.com'.
+- **restaurant_name**: The restaurant's name 
+- **restaurant_cuisine**: The type of cuisine served at the restaurant.
+- **restaurant_location**: The restaurant's location.
+- **restaurant_cost**: An indicator of the cost range, set as "$$."
+- **review_date**: The date when the review was published, in the format as "YYYY-MM-DD."
+- **review_rating**: The rating given to the restaurant.
+- **food_rundown**: A dictionary describing various food items and their descriptions available at the restaurant.
+- **review_text**: An array containing different paragraphs describing the restaurant and dining experience.
 
 ## Installation
 
