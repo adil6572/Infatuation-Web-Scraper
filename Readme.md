@@ -13,7 +13,7 @@
 
 Welcome to the **Web Scraping with Python: The Infatuation Scraper** project. This repository contains a Python web scraping script that extracts data from the website [www.theinfatuation.com](https://www.theinfatuation.com) using popular libraries like Beautiful Soup (bs4) and Scrapy. The Infatuation is known for its restaurant reviews and recommendations, and this script allows you to extract valuable information for various purposes.
 
-![The Infatuation](https://github.com/adil6572/Infatuation-Web-Scraper/the-infatuation.png)
+![The Infatuation](https://github.com/adil6572/Infatuation-Web-Scraper/blob/main/The-Infatuation.png)
 
 ## Features
 
@@ -36,13 +36,13 @@ Follow these steps to get started with the Infatuation Scraper:
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/infatuation-scraper.git
+   git clone https://github.com/adil6572/Infatuation-Web-Scraper.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd infatuation-scraper
+   cd Infatuation-Web-Scraper
    ```
 
 3. Install the required Python packages:
