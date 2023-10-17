@@ -67,7 +67,7 @@ To use the Infatuation Scraper, follow these steps:
    scrapy crawl Review
    ```
 
-2. The scraped data will be saved in a CSV file named `Reviews.json` in the project directory.
+2. The scraped data will be saved in a JSON file named `Reviews.json` in the project directory.
 
 You can now use this data for various purposes, such as analysis, building your restaurant recommendation system, or any other creative project you have in mind.
 
